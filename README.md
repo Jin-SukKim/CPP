@@ -17,3 +17,5 @@ Basic parts
 13. Thread
 14. Uniform Initialization
 15. Constexpr
+16. decltype, declval
+17. type_tratis
